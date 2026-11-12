@@ -6,7 +6,10 @@ export const metadata: Metadata = {
   title: "N-13 BIGSHOP Goma | Téléphones, Vêtements, Souliers - Commander sur WhatsApp",
   description: "N-13 BIGSHOP à Goma : iPhone XR à 17 Pro Max, Samsung, Tecno, Jordan, Baggy, Air Force. Commande facile sur WhatsApp au 0984 506 008, livraison rapide partout à Goma.",
   alternates: { canonical: "/" },
-  robots: { index: true, follow: true },
+  robots: { index: true, follow: true }, 
+  verification: {
+    google: "<meta name="google-site-verification" content="3jM3OT3xYCy1_sHlQm-LH5B7sH3ZW1MmYtOe22QD8fs" />",
+  },
   openGraph: {
     title: "N-13 BIGSHOP | La plus grande boutique de Goma",
     description: "Téléphones, vêtements et souliers à Goma. Commande sur WhatsApp.",
