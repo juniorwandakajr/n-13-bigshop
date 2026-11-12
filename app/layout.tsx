@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   alternates: { canonical: "/" },
   robots: { index: true, follow: true }, 
   verification: {
-    google: "<meta name="google-site-verification" content="3jM3OT3xYCy1_sHlQm-LH5B7sH3ZW1MmYtOe22QD8fs" />",
+    google: "3jM3OT3xYCy1_sHlQm-LH5B7sH3ZW1MmYtOe22QD8fs",
   },
   openGraph: {
     title: "N-13 BIGSHOP | La plus grande boutique de Goma",
