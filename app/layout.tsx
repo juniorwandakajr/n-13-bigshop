@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://n-13-bigshop.vercel.app"),
+  metadataBase: new URL("https://n-13-bigshop-9fg6.vercel.app"),
   title: "N-13 BIGSHOP Goma | Téléphones, Vêtements, Souliers - Commander sur WhatsApp",
   description: "N-13 BIGSHOP à Goma : iPhone XR à 17 Pro Max, Samsung, Tecno, Jordan, Baggy, Air Force. Commande facile sur WhatsApp au 0984 506 008, livraison rapide partout à Goma.",
   alternates: { canonical: "/" },
